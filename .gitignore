@@ -1,0 +1,8 @@
+(
+echo jobs.db
+echo *.csv
+echo *.json
+echo __pycache__/
+echo *.pyc
+echo .ipynb_checkpoints/
+) > .gitignore
